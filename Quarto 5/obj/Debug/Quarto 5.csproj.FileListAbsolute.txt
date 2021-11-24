@@ -1,0 +1,38 @@
+E:\12A\Quarto Project\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe.config
+E:\12A\Quarto Project\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe
+E:\12A\Quarto Project\Quarto 5\Quarto 5\bin\Debug\Quarto 5.pdb
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csprojResolveAssemblyReference.cache
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Form1.resources
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Properties.Resources.resources
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csproj.GenerateResource.Cache
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csproj.CoreCompileInputs.cache
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto 5.exe
+E:\12A\Quarto Project\Quarto 5\Quarto 5\obj\Debug\Quarto 5.pdb
+D:\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe.config
+D:\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe
+D:\Quarto 5\Quarto 5\bin\Debug\Quarto 5.pdb
+D:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csprojResolveAssemblyReference.cache
+D:\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Form1.resources
+D:\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Properties.Resources.resources
+D:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csproj.GenerateResource.Cache
+D:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.exe
+D:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.pdb
+F:\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe.config
+F:\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe
+F:\Quarto 5\Quarto 5\bin\Debug\Quarto 5.pdb
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csprojResolveAssemblyReference.cache
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Form1.resources
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Properties.Resources.resources
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csproj.GenerateResource.Cache
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csproj.CoreCompileInputs.cache
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.exe
+F:\Quarto 5\Quarto 5\obj\Debug\Quarto 5.pdb
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe.config
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\bin\Debug\Quarto 5.exe
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\bin\Debug\Quarto 5.pdb
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csprojResolveAssemblyReference.cache
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Form1.resources
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\obj\Debug\Quarto_5.Properties.Resources.resources
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\obj\Debug\Quarto 5.csproj.GenerateResource.Cache
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\obj\Debug\Quarto 5.exe
+C:\Users\domsa\Desktop\ATESTAT INFO\Quarto 5\Quarto 5\obj\Debug\Quarto 5.pdb
